@@ -20,7 +20,7 @@ const str: string = 'str';
 // array
 const numberArr: number[] = [1, 1, 2];          // 1-й тип объявления с []
 const stringArr: string[] = ['a', 'b', 'c'];    // 1-й
-const numberArr2: Array<number> = [1, 1, 2];    // 2-й тип объявления generic
+const numberArr2: Array<number> = [1, 1, 2];    // 2-й тип объявления generic (файл №7)
 
 
 
